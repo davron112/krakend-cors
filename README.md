@@ -1,4 +1,4 @@
-[![Go Report Card](https://goreportcard.com/badge/github.com/krakendio/krakend-cors)](https://goreportcard.com/report/github.com/krakendio/krakend-cors)  [![GoDoc](https://godoc.org/github.com/krakendio/krakend-cors?status.svg)](https://godoc.org/github.com/krakendio/krakend-cors)
+[![Go Report Card](https://goreportcard.com/badge/github.com/davron112/krakend-cors)](https://goreportcard.com/report/github.com/davron112/krakend-cors)  [![GoDoc](https://godoc.org/github.com/davron112/krakend-cors?status.svg)](https://godoc.org/github.com/davron112/krakend-cors)
 
 KrakenD CORS
 ====
@@ -7,8 +7,8 @@ A set of building blocks for instrumenting [KrakenD](http://www.krakend.io) gate
 
 ## Available flavours
 
-1. [mux](github.com/krakendio/krakend-cors/blob/master/mux) Mux based handlers
-2. [gin](github.com/krakendio/krakend-cors/blob/master/gin) Gin based handlers
+1. [mux](github.com/davron112/krakend-cors/blob/master/mux) Mux based handlers
+2. [gin](github.com/davron112/krakend-cors/blob/master/gin) Gin based handlers
 
 Check the tests and the documentation for more details
 

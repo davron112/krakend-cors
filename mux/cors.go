@@ -4,10 +4,10 @@ import (
 	"io"
 	"log"
 
-	krakendcors "github.com/krakendio/krakend-cors/v2"
-	"github.com/luraproject/lura/v2/config"
-	"github.com/luraproject/lura/v2/logging"
-	"github.com/luraproject/lura/v2/router/mux"
+	krakendcors "github.com/davron112/krakend-cors/v2"
+	"github.com/davron112/lura/v2/config"
+	"github.com/davron112/lura/v2/logging"
+	"github.com/davron112/lura/v2/router/mux"
 	"github.com/rs/cors"
 )
 
