@@ -7,7 +7,7 @@ import (
 )
 
 // Namespace is the key to look for extra configuration details
-const Namespace = "github_com/devopsfaith/krakend-cors"
+const Namespace = "github_com/davron112/krakend-cors"
 
 // Config holds the configuration of CORS
 type Config struct {
