@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gin-gonic/gin"
+	"github.com/davron112/gin"
 )
 
 func TestInvalidCfg(t *testing.T) {

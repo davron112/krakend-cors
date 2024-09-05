@@ -4,11 +4,11 @@ import (
 	"context"
 	"net/http"
 
+	"github.com/davron112/gin"
 	krakendcors "github.com/davron112/krakend-cors/v2"
 	"github.com/davron112/krakend-cors/v2/mux"
 	"github.com/davron112/lura/v2/config"
 	"github.com/davron112/lura/v2/logging"
-	"github.com/gin-gonic/gin"
 	"github.com/rs/cors"
 	wrapper "github.com/rs/cors/wrapper/gin"
 )
